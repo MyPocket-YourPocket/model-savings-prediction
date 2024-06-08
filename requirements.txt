@@ -1,0 +1,7 @@
+pandas
+tensorflow==2.15
+streamlit==1.29.0
+pickle
+numpy
+scikit-learn
+matplotlib

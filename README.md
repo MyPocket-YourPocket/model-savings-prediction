@@ -13,7 +13,7 @@
    On Windows:
 
    ```bash
-   .\env\Scripts\activate
+   .\env\Scripts\activate.bat
    ```
 
    On Unix or MacOS:
